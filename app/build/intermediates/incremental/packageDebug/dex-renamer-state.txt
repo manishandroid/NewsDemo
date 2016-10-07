@@ -1,0 +1,7 @@
+#Sat Oct 08 03:34:00 IST 2016
+base.0=/Users/manishandroid/Downloads/ScienceNewsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fa02b294e7b802ac33803a593fa1f029c898e483
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/manishandroid/Downloads/ScienceNewsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_071f79aa6a2b4b2e31eb62b942183741625502e3/classes.dex
+base.1=/Users/manishandroid/Downloads/ScienceNewsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_071f79aa6a2b4b2e31eb62b942183741625502e3
+file.0=/Users/manishandroid/Downloads/ScienceNewsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fa02b294e7b802ac33803a593fa1f029c898e483/classes.dex
